@@ -1,0 +1,47 @@
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfoInputs.cache
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfo.cs
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.deps.json
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.json
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.dev.json
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.dll
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.pdb
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.dll
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.pdb
+C:\Users\dkopta\Source\Repos\Staff\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.csprojAssemblyReference.cache
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.deps.json
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.json
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.dev.json
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.dll
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.pdb
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.csproj.CoreCompileInputs.cache
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfoInputs.cache
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfo.cs
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.dll
+C:\Users\dkopta\Source\Repos\CS6016_Examples\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.pdb
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.deps.json
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.json
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.dev.json
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.dll
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.pdb
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.csprojAssemblyReference.cache
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfoInputs.cache
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfo.cs
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.dll
+\\Mac\Home\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.pdb
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.csprojAssemblyReference.cache
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.csproj.CoreCompileInputs.cache
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfoInputs.cache
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.AssemblyInfo.cs
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.deps.json
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.json
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.runtimeconfig.dev.json
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.dll
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\bin\Debug\netcoreapp2.0\LMS.pdb
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.dll
+Z:\Box Sync\milesar\CS 6016\LMS\LMS\obj\Debug\netcoreapp2.0\LMS.pdb

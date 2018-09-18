@@ -1,0 +1,45 @@
+ART	3110	Graphic Design 1
+ART	3210	Graphic Design 2
+ART	3310	Graphic Design 3
+ART	1200	Intro to Finger Painting
+ART	2200	Advanced Finger Painting
+ART	1100	Intro to Crayons
+ART	2100	Advanced Crayons
+ART	4100	Ceramics
+ART	5440	Nudes
+CS	3110	Data Visualization
+CS	3210	Algorithms and Data Structures
+CS	3310	Advanced Algorithms
+CS	1200	Object Oriented Programming
+CS	2200	Machine Learning
+CS	1100	Computer Graphics
+CS	2100	Systems and Architectures
+CS	4100	Functional Programming
+CS	5440	Articial Intelligence
+MSE	1010	Materials Engineering
+MSE	1240	Ethics in Engineering
+MSE	1050	Biomaterials
+MSE	2100	Thermodynamics
+MSE	2200	Ceramics
+MSE	2300	Electrical Properties of Solids
+MSE	3100	Materials Selection in Engineering Design
+MSE	3300	Semiconductors
+MSE	5900	Transport Phenomena
+SUST	1010	Wetlands
+SUST	1240	Oceanography I
+SUST	1050	Recycling I
+SUST	2100	Recycling II
+SUST	2200	Conservation
+SUST	2300	Forrestry
+SUST	3100	Surveying
+SUST	3300	Municipal System Design
+SUST	5900	Practical Wetland Analysis
+BIOCH	4900	Biochemistry I
+BIOCH	5100	Biochemistry II
+BIOCH	5230	Proteins
+BIOCH	5440	Medicinal Chemistry
+BIOCH	6010	The Blood Brain Barrier
+BIOCH	6300	New Frontiers: Gene Therapy
+BIOCH	6400	New Frontiers: Biologics
+BIOCH	7100	Pharmaceutical Oncology
+BIOCH	6510	Disease Modelling
